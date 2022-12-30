@@ -1,5 +1,4 @@
-// Write a program to find the duplicate element in an array of size N+1. The array contains elements from 1 to N. The array is sorted. The array contains one duplicate element.
-//  Input Format
+
 #include <iostream>
 using namespace std;
 
