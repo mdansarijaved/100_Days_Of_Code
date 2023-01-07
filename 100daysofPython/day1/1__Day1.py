@@ -8,5 +8,5 @@ print(a)
 
 
 # variables
-name = input("what is your name? ")
+name = 'jackass'
 print(name)
