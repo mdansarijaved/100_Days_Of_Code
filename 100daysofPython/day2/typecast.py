@@ -26,3 +26,18 @@ print(str(123)+ str(3848))
 # Priority in python for mathematical operators follow pedmas
 # () -> **  -> / or * -> + or - 
 
+
+#number manipulation 
+
+# to round the decimal number 
+
+print(round(10/3,2))
+
+print(8//3) #floor division this will do the work of int(8/3)
+
+
+# f-string
+age =18
+name = "javed"
+
+print(f"your age is {age} and your name is {name}")
