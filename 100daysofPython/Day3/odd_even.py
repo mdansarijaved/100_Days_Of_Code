@@ -5,3 +5,4 @@ if num%2 == 0:
     
 else:
     print(f"The number {num} is odd")
+    
