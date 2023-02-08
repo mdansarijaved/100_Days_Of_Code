@@ -15,4 +15,5 @@ print(total)
 
 average = total/num_students
 print(average)
+# done for today
     
